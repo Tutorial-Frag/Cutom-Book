@@ -1,0 +1,11 @@
+name: CustomBooks
+version: 0.1
+description: This Tutorial Plugin.
+author: FragCrypt
+ 
+main: me.FragCrypt.Tutorial.Main
+ 
+commands:
+  tutorial:
+    description: Gives the tutorial command
+    aliases: [tut, t]
